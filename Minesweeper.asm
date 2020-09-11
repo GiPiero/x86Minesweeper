@@ -2,7 +2,7 @@ INCLUDE Irvine32.inc
 
 DIM equ 20
 NUM_SQUARES equ(DIM * DIM)
-NUM_MINES equ 100
+NUM_MINES equ 30
 
 LOST equ 1
 WON equ 2
